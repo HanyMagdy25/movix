@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/movix/static/css/main.d996ac96.css",
-    "main.js": "/movix/static/js/main.c06f4119.js",
+    "main.css": "/movix/static/css/main.ae63f05c.css",
+    "main.js": "/movix/static/js/main.25465ff1.js",
     "index.html": "/movix/index.html",
-    "main.d996ac96.css.map": "/movix/static/css/main.d996ac96.css.map",
-    "main.c06f4119.js.map": "/movix/static/js/main.c06f4119.js.map"
+    "main.ae63f05c.css.map": "/movix/static/css/main.ae63f05c.css.map",
+    "main.25465ff1.js.map": "/movix/static/js/main.25465ff1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d996ac96.css",
-    "static/js/main.c06f4119.js"
+    "static/css/main.ae63f05c.css",
+    "static/js/main.25465ff1.js"
   ]
 }
